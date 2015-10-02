@@ -1,0 +1,6 @@
+/**
+ * Swimmer
+ */
+public class Swim {
+    
+}
